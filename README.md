@@ -8,4 +8,4 @@ Programming was something my father and I both learned to do in those days and w
 
 I also took some classes while I was working on a military base in Germany in the early 2000s. I learned C++ from an instructor named Jerry Rugg. He was a very intelligent man and a good teacher.
 
-I have piddled with programming over the years and mainly with C#, which I like very much. As I write this in March 2024, I don't have anything very specific in mind to focus on, but I discovered Semantic Kernal yesterday and since I already have a ongoing fascination with OpenAI's products, I think that is where I want to start.
+I have piddled with programming over the years and mainly with C#, which I like very much. As I write this in February 2024, I don't have anything very specific in mind to focus on, but I discovered Semantic Kernal yesterday and since I already have a ongoing fascination with OpenAI's products, I think that is where I want to start.
